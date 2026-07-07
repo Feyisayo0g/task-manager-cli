@@ -53,4 +53,4 @@ task-manager-cli/
 
 ---
 
-**Author:** Feyisayo Ogunmade — Lead Data Analyst (AT&T) transitioning into AI/ML Engineering. More projects and case studies at [feyisayoogunmade.com](https://feyisayoogunmade.com) · [LinkedIn](#)
+**Author:** Feyisayo Ogunmade — Lead Data Analyst (AT&T) transitioning into AI/ML Engineering. More projects and case studies at [feyisayoogunmade.com](https://feyisayoogunmade.com) · [LinkedIn](https://www.linkedin.com/in/feyisayo-ogunmade/)
